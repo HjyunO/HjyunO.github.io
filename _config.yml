@@ -22,7 +22,7 @@ title_separator          : "Slowly but perfectly, clumsy but developing"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JIHOON OH"
 description              : "Study for various developments"
-url                      : "https://hjyuno.github.io"
+url                      : "https://HjyunO.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
